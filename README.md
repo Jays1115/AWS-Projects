@@ -8,4 +8,6 @@
 - <b>[Vertically Scaling an EC2 Instance](https://github.com/Jays1115/Vertically-Scaling-an-EC2-Instance.git)</b>
 - <b>[Resolving VPC Connectivity Issues](https://github.com/Jays1115/Resolving-VPC-Connectivity-Issues.git)</b>
 - <b>[Improving Database Efficiency](https://github.com/Jays1115/Improving-Database-Efficiency.git)</b>
+- <b>[Peering VPCs](https://github.com/Jays1115/Peering-VPCs.git)</b>
+
 
