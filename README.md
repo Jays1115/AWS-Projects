@@ -10,3 +10,5 @@
 - <b>[Improving Database Efficiency](https://github.com/Jays1115/Improving-Database-Efficiency.git)</b>
 - <b>[Peering VPCs](https://github.com/Jays1115/Peering-VPCs.git)</b>
 - <b>[Creating a DynamoDB Table](https://github.com/Jays1115/Creating-DynamoDB-Table.git)</b>
+- <b>[Creating an EFS and Giving Access to Multiple EC2 Instances](https://github.com/Jays1115/Creating-an-EFS-and-Giving-Access-to-Multiple-EC2-Instances.git)</b>
+
