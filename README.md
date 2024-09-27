@@ -13,3 +13,4 @@
 - <b>[Creating an EFS and Giving Access to Multiple EC2 Instances](https://github.com/Jays1115/Creating-an-EFS-and-Giving-Access-to-Multiple-EC2-Instances.git)</b>
 - <b>[Auto Scaling](https://github.com/Jays1115/Auto-Scaling.git)</b>
 - <b>[Elastic Load Balancing](https://github.com/Jays1115/Elastic-Load-Balancing.git)</b>
+- <b>[AWS Identity Access Management (IAM)](https://github.com/Jays1115/AWS-IAM.git)</b>
