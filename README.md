@@ -14,3 +14,4 @@
 - <b>[Auto Scaling](https://github.com/Jays1115/Auto-Scaling.git)</b>
 - <b>[Elastic Load Balancing](https://github.com/Jays1115/Elastic-Load-Balancing.git)</b>
 - <b>[AWS Identity Access Management (IAM)](https://github.com/Jays1115/AWS-IAM.git)</b>
+- <b>[AWS Cost Estimation](https://github.com/Jays1115/AWS-Cost-Estimation.git)</b>
